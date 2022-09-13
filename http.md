@@ -40,3 +40,11 @@
 
 <h2>Aula 5 - Códigos de resposta (Status Code)<h2>
     <img src='classe-http-2.png'>
+
+<h2>Aula 6 - Métodos HTTP</h2>
+    <ul>
+        <li>GET --> Receber dados (Parâmetros na ULR)</li>
+        <li>POST --> Submeter dados (Parâmetros no corpo da requisição)</li>
+        <li>DELETE --> Remover um recurso</li>
+        <li>PUT --> Atualizar um recurso</li>
+    </ul>

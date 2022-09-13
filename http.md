@@ -25,3 +25,12 @@
         <li>Após o domínio:porta, é especificado o caminho para um recurso (/course/introducao-html-css)</li>
         <li>Um recurso é algo concreto na aplicação que queremos acessar</li>
     </ul>
+
+<h2>Aula 4</h2>
+    <ul>
+        <li>O protocolo HTTP segue o modelo Requisição-Resposta</li>
+        <li>Sempre o cliente inicia a comunicação</li>
+        <li>Uma requisição precisa ter todas as informações para o servidor gerar a resposta</li>
+        <li>HTTP é stateless, não mantém informações entre requisições</li>
+        <li>As plataformas de desenvolvimento usam sessões para guardar informações entre requisições</li>
+    </ul>

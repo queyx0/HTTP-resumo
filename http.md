@@ -56,3 +56,12 @@
         <li>Accept/Content-Type são usados para especificar as representações(JSON,XML,...)</li>
     </ul>
     <img src='imagem2-cap8-rest-http.png' height=250 width=400>
+
+<h2>Aula 8 - HTTP/2</h2>
+    <ul>
+        <li>Atua sobre o que já se conhece de HTTP</li>
+        <li>Header binários e comprimidos(HPACK)</li>
+        <li>GZIP padrão resposta</li>
+        <li>Multiplexing (Requisição e respostas são paralelas)</li>
+        <li>Headers Stateful (Mandamos apenas os cabeçalhos que mudam)</li>
+    </ul>

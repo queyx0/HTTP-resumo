@@ -48,3 +48,11 @@
         <li>DELETE --> Remover um recurso</li>
         <li>PUT --> Atualizar um recurso</li>
     </ul>
+
+<h2>Aula 7 - REST</h2>
+    <ul>
+        <li>REST é um padrão arquitetural para comunicações entre aplicações</li>
+        <li>Recursos são definidos via URI</li>
+        <li>Accept/Content-Type são usados para especificar as representações(JSON,XML,...)</li>
+    </ul>
+    <img src='imagem2-cap8-rest-http.png' height=250 width=400>

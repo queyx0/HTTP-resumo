@@ -26,6 +26,9 @@
         <li>Um recurso é algo concreto na aplicação que queremos acessar</li>
     </ul>
 
+<h2>Estrutura URL</h2>
+    <img src='http-url.png'>
+
 <h2>Aula 4</h2>
     <ul>
         <li>O protocolo HTTP segue o modelo Requisição-Resposta</li>
@@ -34,3 +37,6 @@
         <li>HTTP é stateless, não mantém informações entre requisições</li>
         <li>As plataformas de desenvolvimento usam sessões para guardar informações entre requisições</li>
     </ul>
+
+<h2>Aula 5 - Códigos de resposta (Status Code)<h2>
+    <img src='classe-http-2.png'>
